@@ -1,0 +1,20 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#nav {
+    display: inline-block;
+}
+
+/* for tablet devices */
+@media-query (min-width: 480px) {
+     
+}
+
+
+/* for desktop */
+@media-query (min-width: 1200px) {
+    
+}
